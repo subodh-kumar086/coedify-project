@@ -1,0 +1,52 @@
+.container1{
+    margin-left : 30px;
+    margin-top : 30px;
+    padding : 0px;
+    
+    box-sizing: border-box;
+}
+
+.divBox{
+    width : 250px;
+    height : 200px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: grey;
+    /* box-shadow: 2px 2px 10px black; */
+    border-radius: 15px;
+    display: inline-block;
+}
+
+.imgBox{
+    
+    width:100%;
+   
+}
+
+.imgBox img{
+    width : 50px;
+    height : 50px;
+    margin-left: 35%;
+    margin-top: 5px;
+    border-radius: 80%;
+    background-color: #778beb;
+    background-size: cover;
+    cursor: pointer;
+    
+
+}
+
+.imgBox img:hover{
+    background-color: blue;
+}
+
+
+.titleDiv{
+    text-align: center;
+}
+
+.bodyDiv{
+    text-align: center;
+    position: relative;
+    padding : 5px;
+}

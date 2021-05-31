@@ -1,0 +1,55 @@
+*{
+    margin:0px auto;
+    box-sizing: border-box;
+}
+
+.header{
+    padding: 0px;
+    margin : 0px;
+    text-align: center;
+    background: #e6f7ff;
+    /* color: white; */
+    font-size: 20px;
+}
+
+.tech{
+    color:darkblue;
+}
+
+.header p{
+    font-size: 15px;
+}
+
+.divVideo{
+    margin-top : 20px;
+    
+    align-items: center;
+    margin-left: 120px; 
+    padding:20px;
+}
+
+.videoImg{
+    width:600px;
+    height:500px;
+    
+}
+
+.btnGroup{
+    align-items: center;
+    margin:10px auto;
+}
+
+.header1{
+    
+    padding: 0px;
+    text-align: center;
+    background: #e6f7ff;
+    /* color: white; */
+    font-size: 15px;
+}
+
+.header1 p{
+    
+    font-size: 15px;
+}
+
