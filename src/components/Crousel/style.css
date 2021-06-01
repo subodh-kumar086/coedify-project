@@ -1,0 +1,53 @@
+.crouselHeader{
+    
+    padding: 30px;
+    text-align: center;
+    background: #e6f7ff;
+    /* color: white; */
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.crouselHeader p{
+    
+    font-size: 15px;
+}
+
+.crouselBody{
+    width:100%;
+    margin-left:40px;
+    
+}
+
+.leftColumn{
+    width:50%;
+    height:400px;
+    float:left;
+    margin-top:0px;
+    padding-left: 10px;
+    
+}
+
+.leftColumn h2{
+
+    margin-bottom: 10px;
+}
+
+.rightColumn{
+    width:50%;
+    height:400px;
+    float:right;
+    margin-top: 0px;
+
+}
+
+.light{
+    color : blue;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.image1{
+    height: 60%;
+    width:80%;
+}
