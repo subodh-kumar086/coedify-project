@@ -1,7 +1,8 @@
 import React from 'react';
-import Header from '../Header/Header';
-import Navbar from '../Navbar/Navbar';
-import Data from '../Data/Data';
+
+import Navbar from '../../components/Navbar/Navbar';
+import Data from '../../components/Data/Data';
+import Header from '../../components/Header/Header';
 
 
 function Home() {
