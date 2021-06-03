@@ -1,8 +1,10 @@
+
+
 hr{
     height:1px;
     width : 80%;
-    border-width:0;
+    border-width:2;
     color:gray;
-    background-color:gray;
+    background-color:#bed9e4;
 
 }

@@ -10,7 +10,7 @@
 li, a, button{
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 10px;
     color : #1a0000;
     text-decoration: none;
 
@@ -52,7 +52,7 @@ header{
 }
 
 button{
-    padding: 9px 25px;
+    padding: 9px 20px;
     background-color: rgba(0,136,169,1);
     color: cornsilk;
     border:none;

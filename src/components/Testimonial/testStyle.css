@@ -1,0 +1,77 @@
+.testHeader{
+    margin: 5px;
+    text-align: center;
+    background: #e6f7ff;
+    /* color: white; */
+    font-size: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.testHeader p{
+    
+    font-size: 15px;
+    margin-top:10px;
+}
+
+.container2{
+   
+     box-sizing: border-box;
+     width: 100%;
+}
+
+ 
+
+ .comma{
+     font-size: 20px;
+     font-weight: 800;
+     color: #778beb;
+ }
+
+.testnomialBoxes{
+    width : 200px;
+    height : 250px;
+    margin-bottom: 20px;
+    /* background-color: grey; */
+     box-shadow: 2px 2px 10px black; 
+     /* border-radius: 15px;  */
+     margin-left:40px;
+    display: inline-block;
+}
+
+.testnomialBoxes hr{
+    margin-top: 10px;
+}
+
+.testnomialBoxes span{
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.testnomialBoxes p{
+    font-size: 12px;
+    margin: 20px;
+}
+
+.divEmail{
+    width : 90%;
+    height : 100px;
+    background-color: #778beb;
+    padding-top: 40px;
+}
+
+
+.left{
+    width: 70%;
+    float: left;
+    padding-left: 30px;
+    
+}
+
+.right{
+    width: 30%;
+    float: right;
+    padding-right: 20px;
+}
